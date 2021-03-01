@@ -1,0 +1,5 @@
+Row(summary='count', cat_count='7153')
+Row(summary='mean', cat_count='1.9264644205228576')
+Row(summary='stddev', cat_count='8.432165500551477')
+Row(summary='min', cat_count='1')
+Row(summary='max', cat_count='273')
