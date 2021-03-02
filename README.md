@@ -2,6 +2,7 @@
 
 
 ## Introduction
+![Image](screen_shots/example.jpg)
 ![Image](screen_shots/task_1&2.jpg)
 The goal of this assignment is to implement a set of Spark programs in python (using Apache Spark).
 Specifically, this project analyzed a data set consisting of New York City Taxi trip reports in the
