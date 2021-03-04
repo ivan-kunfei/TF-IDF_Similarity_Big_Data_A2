@@ -24,6 +24,6 @@ To run the task1&2 file, you need 5 arguments: root for wikiPagesFile, root for 
 
 To run the task3 file, do the same.
 
-    python spark-submit assignment_2_task3.py "root1_" "root_2" "root_3" "root_4" "root_5"``
+    python spark-submit assignment_2_task3.py "root_1" "root_2" "root_3" "root_4" "root_5"``
 ## Author
 Ivan Chen
