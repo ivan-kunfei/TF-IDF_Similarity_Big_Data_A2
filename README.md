@@ -18,12 +18,12 @@ This ``screen_shots``directory contains spark history logs. The ``output`` direc
 The `small_data` contains small dataset with two files. The two pdf files are assignment requirement and my report.
 
 ## Getting Started
-To run the task1&2 file, you need 5 arguments: root for wikiPagesFile, root for wikiCategoryFile, and output roots for result 1,2 and 3. 
+To run the task1&2 file, you need 5 arguments: path for wikiPagesFile, path for wikiCategoryFile, and output paths for result 1,2 and 3. 
 
-    python spark-submit assignment_2_task1&2.py "root1_" "root_2" "root_3" "root_4" "root_5"``
+    python spark-submit assignment_2_task1&2.py "path_1" "path_2" "path_3" "path_4" "path_5"``
 
 To run the task3 file, do the same.
 
-    python spark-submit assignment_2_task3.py "root_1" "root_2" "root_3" "root_4" "root_5"``
+    python spark-submit assignment_2_task3.py "path_1" "path_2" "path_3" "path_4" "path_5"``
 ## Author
 Ivan Chen
