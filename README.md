@@ -5,13 +5,7 @@
 ![Image](screen_shots/example.jpg)
 ![Image](screen_shots/task_1&2.jpg)
 The goal of this assignment is to implement a set of Spark programs in python (using Apache Spark).
-Specifically, this project analyzed a data set consisting of New York City Taxi trip reports in the
-Year 2013. The dataset was released under the FOIL (The Freedom of Information Law) and made public
-by Chris Whong 
-
-``https://chriswhong.com/open-data/foil_nyc_taxi/``
-
-This project applies k-nearest neighbors classifier (KNN) in multiple steps to classify text documents.
+Specifically, this project analyzes a data set consisting of 1 million Wikipedia pages and applies k-nearest neighbors classifier (KNN) in multiple steps to classify text documents.
 The Term Frequency-Inverse Document Frequency (TF-IDF) matrix is a core algorithm to compare similarity distances between different string vectors. 
 
 This ``screen_shots``directory contains spark history logs. The ``output`` directory contains result of the task1 and task2 for the big dataset.
